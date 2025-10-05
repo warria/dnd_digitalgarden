@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s9-warthin-raunioihin/","created":"2025-10-03T22:04:51.977+03:00","updated":"2025-10-05T15:50:00.371+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s9-warthin-raunioihin/","updated":"2025-10-05T15:50:00.371+03:00"}
 ---
 
 # Jaconian kahleet – Session 9

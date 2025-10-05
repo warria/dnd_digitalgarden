@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/jaconian-alku/","created":"2025-10-04T22:05:25.826+03:00","updated":"2025-10-05T16:21:23.841+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/jaconian-alku/","updated":"2025-10-05T16:21:23.841+03:00"}
 ---
 
 # Maailman alku

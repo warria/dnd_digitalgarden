@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s3-pako-ja-juhlat/","created":"2025-10-03T22:04:34.825+03:00","updated":"2025-10-05T10:38:36.475+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s3-pako-ja-juhlat/","updated":"2025-10-05T10:38:36.475+03:00"}
 ---
 
 # Jaconian kahleet – Session 3 

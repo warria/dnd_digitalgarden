@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s2-vankilan-salaisuudet/","created":"2025-10-03T22:04:33.491+03:00","updated":"2025-10-05T15:38:38.582+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s2-vankilan-salaisuudet/","updated":"2025-10-05T15:38:38.582+03:00"}
 ---
 
 # Jaconian kahleet – Session 2 

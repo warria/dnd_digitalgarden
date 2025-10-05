@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s5-dire-wolfs-ja-kettu/","created":"2025-10-03T22:04:36.831+03:00","updated":"2025-10-05T12:01:20.633+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s5-dire-wolfs-ja-kettu/","updated":"2025-10-05T12:01:20.633+03:00"}
 ---
 
 # Jaconian kahleet – Session 5 

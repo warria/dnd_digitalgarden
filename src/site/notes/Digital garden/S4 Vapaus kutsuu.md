@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s4-vapaus-kutsuu/","created":"2025-10-03T22:04:35.832+03:00","updated":"2025-10-05T10:39:11.446+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s4-vapaus-kutsuu/","updated":"2025-10-05T10:39:11.446+03:00"}
 ---
 
 # Jaconian kahleet – Session 4 

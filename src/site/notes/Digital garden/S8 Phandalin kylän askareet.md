@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s8-phandalin-kylaen-askareet/","created":"2025-10-03T22:04:50.230+03:00","updated":"2025-10-05T15:48:24.610+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s8-phandalin-kylaen-askareet/","updated":"2025-10-05T15:48:24.610+03:00"}
 ---
 
 # Jaconian kahleet – Session 8

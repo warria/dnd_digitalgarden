@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s1-vankilasta-uusia-ystaeviae/","created":"2025-10-03T22:04:24.203+03:00","updated":"2025-10-05T10:38:11.661+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/s1-vankilasta-uusia-ystaeviae/","updated":"2025-10-05T10:38:11.661+03:00"}
 ---
 
 # Jaconian kahleet – Session 1 
