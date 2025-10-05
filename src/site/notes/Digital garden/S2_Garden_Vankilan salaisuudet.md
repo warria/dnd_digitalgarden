@@ -85,6 +85,6 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - **Kihlasormus** (löytäjä: Nerefina)
 - **Perhekuva** (löytäjä: Nerefina)
 - **Taikaesineet** – Punainen amuletti (löytäjä: Lucifer)
-- **Henkilökohtaiset esineet
+- **Henkilökohtaiset esineet**
 - **Vartijan Miran keihäs** (löytäjä: Nerefina)
 ---
