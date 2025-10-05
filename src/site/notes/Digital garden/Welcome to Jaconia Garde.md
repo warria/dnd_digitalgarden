@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/welcome-to-jaconia-garde/","tags":["gardenEntry"],"created":"2025-09-23T16:47:03.546+03:00","updated":"2025-10-05T10:38:54.119+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/welcome-to-jaconia-garde/","tags":["gardenEntry"],"created":"2025-09-23T16:47:03.546+03:00","updated":"2025-10-05T16:13:44.325+03:00"}
 ---
 
 # Welcome to Jaconia Digital Garde
@@ -139,7 +139,7 @@ ___
     
 - **Sessio 7** – [[Digital garden/S7_Garden_Taijan omainen majatalo\|S7_Garden_Taijan omainen majatalo]]
     
-- **Sessio 8** – [[Campaign/Sessions/Arc_1/S8_Phandalin kylän askareet\|S8_Phandalin kylän askareet]]
+- **Sessio 8** – [[Digital garden/S8_Garden_Phandalin kylän askareet\|S8_Garden_Phandalin kylän askareet]]
     
 - **Sessio 9** – [[Digital garden/S9_Garden_Warthin raunioihin\|S9_Garden_Warthin raunioihin]]
     
