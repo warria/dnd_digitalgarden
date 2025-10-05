@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/welcome-to-jaconia-garde/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/welcome-to-jaconia-garde/","tags":["gardenEntry"],"created":"2025-09-23T16:47:03.546+03:00","updated":"2025-10-05T10:38:54.119+03:00"}
 ---
 
 # Welcome to Jaconia Digital Garde

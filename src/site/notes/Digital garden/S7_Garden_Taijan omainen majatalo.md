@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s7-garden-taijan-omainen-majatalo/"}
+{"dg-publish":true,"permalink":"/digital-garden/s7-garden-taijan-omainen-majatalo/","created":"2025-10-03T22:04:48.638+03:00","updated":"2025-10-05T11:50:41.916+03:00"}
 ---
 
 # Jaconian kahleet – Session 7

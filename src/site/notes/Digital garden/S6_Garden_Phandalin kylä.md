@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/s6-garden-phandalin-kylae/"}
+{"dg-publish":true,"permalink":"/digital-garden/s6-garden-phandalin-kylae/","created":"2025-10-03T22:04:37.843+03:00","updated":"2025-10-05T11:47:50.305+03:00"}
 ---
 
 # Jaconian kahleet – Session 6
