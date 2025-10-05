@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/jaconian-alku/","created":"2025-10-04T22:05:25.826+03:00","updated":"2025-10-05T10:38:19.388+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/jaconian-alku/","created":"2025-10-04T22:05:25.826+03:00","updated":"2025-10-05T16:21:23.841+03:00"}
 ---
 
-# **Maailman alku**
+# Maailman alku
 ---
 ## **Yhteenveto**
 Jaconia on pieni saari kaaoksen keskellä, ympäröity **Suden autiomaalla** ja Borvarian hirviöiden täyttämällä, mustan magian alueella. Muinaisten velhokuninkaiden kuoltua maailma on muuttunut, ja taikuus elää vain varjoina ihmisten ja taikaolentojen keskuudessa.

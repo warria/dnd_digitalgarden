@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/welcome-to-jaconia-garde/","tags":["gardenEntry"],"created":"2025-09-23T16:47:03.546+03:00","updated":"2025-10-05T16:13:44.325+03:00"}
+{"dg-publish":true,"permalink":"/digital-garden/welcome-to-jaconia-garde/","tags":["gardenEntry"],"created":"2025-09-23T16:47:03.546+03:00","updated":"2025-10-05T16:21:02.274+03:00"}
 ---
 
-# Welcome to Jaconia Digital Garde
+# Welcome to Jaconia
 
 **[[Digital garden/Jaconian Alku\|Tervetuloa Jaconiaan]]** – ihmeiden ja taikuuden maahan… tai oikeammin siihen, mitä siitä on jäljellä.
 
@@ -125,23 +125,23 @@ ___
 
 # Session lista
 
-- **Sessio 1** – [[Digital garden/S1_Garden_Vankilasta uusia ystäviä\|S1_Garden_Vankilasta uusia ystäviä]]
+- **Sessio 1** – [[Digital garden/S1 Vankilasta uusia ystäviä\|S1 Vankilasta uusia ystäviä]]
     
-- **Sessio 2** – [[Digital garden/S2_Garden_Vankilan salaisuudet\|S2_Garden_Vankilan salaisuudet]]
+- **Sessio 2** – [[Digital garden/S2 Vankilan salaisuudet\|S2 Vankilan salaisuudet]]
     
-- **Sessio 3** – [[Digital garden/S3_Garden_Pako ja juhlat\|S3_Garden_Pako ja juhlat]]
+- **Sessio 3** – [[Digital garden/S3 Pako ja juhlat\|S3 Pako ja juhlat]]
     
-- **Sessio 4** – [[Digital garden/S4_Garden_Vapaus kutsuu\|S4_Garden_Vapaus kutsuu]]
+- **Sessio 4** – [[Digital garden/S4 Vapaus kutsuu\|S4 Vapaus kutsuu]]
     
-- **Sessio 5** – [[Digital garden/S5_Garden_Dire Wolfs ja Kettu\|S5_Garden_Dire Wolfs ja Kettu]]
+- **Sessio 5** – [[Digital garden/S5 Dire Wolfs ja Kettu\|S5 Dire Wolfs ja Kettu]]
     
-- **Sessio 6** – [[Digital garden/S6_Garden_Phandalin kylä\|S6_Garden_Phandalin kylä]]
+- **Sessio 6** – [[Digital garden/S6 Phandalin kylä\|S6 Phandalin kylä]]
     
-- **Sessio 7** – [[Digital garden/S7_Garden_Taijan omainen majatalo\|S7_Garden_Taijan omainen majatalo]]
+- **Sessio 7** – [[Digital garden/S7 Taijan omainen majatalo\|S7 Taijan omainen majatalo]]
     
-- **Sessio 8** – [[Digital garden/S8_Garden_Phandalin kylän askareet\|S8_Garden_Phandalin kylän askareet]]
+- **Sessio 8** – [[Digital garden/S8 Phandalin kylän askareet\|S8 Phandalin kylän askareet]]
     
-- **Sessio 9** – [[Digital garden/S9_Garden_Warthin raunioihin\|S9_Garden_Warthin raunioihin]]
+- **Sessio 9** – [[Digital garden/S9 Warthin raunioihin\|S9 Warthin raunioihin]]
     
 - **Sessio 10** – Tulossa pian O.o
 	
